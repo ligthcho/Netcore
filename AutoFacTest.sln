@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Attr", "Attr", "{1086DABF-7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attri", "Attri\Attri.csproj", "{DBAD5775-24BB-4344-BF66-924B173E601B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFacAOP", "AutoFacAOP\AutoFacAOP.csproj", "{309034C2-4317-41F2-A4AD-6866E99D7DBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{DBAD5775-24BB-4344-BF66-924B173E601B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBAD5775-24BB-4344-BF66-924B173E601B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBAD5775-24BB-4344-BF66-924B173E601B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309034C2-4317-41F2-A4AD-6866E99D7DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309034C2-4317-41F2-A4AD-6866E99D7DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309034C2-4317-41F2-A4AD-6866E99D7DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309034C2-4317-41F2-A4AD-6866E99D7DBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

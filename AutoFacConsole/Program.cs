@@ -23,7 +23,7 @@ namespace AutoFacConsole
 
 			var builder = new ContainerBuilder();
 			builder.RegisterType<CatInterceptor>();//注册拦截器
-
+			//InterceptedBy 注册扩展
 			//builder.RegisterType<Cat>().As<ICat>().InterceptedBy(typeof(CatInterceptor)).EnableInterfaceInterceptors();//注册cat并为其添加拦截器
 
 			//动态载入代理
